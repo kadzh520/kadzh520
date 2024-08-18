@@ -18,7 +18,7 @@
 
 Email：[kadzh520@qq.com](mailto:kadzh520@qq.com) -->
 
-你好，我是小改，一名自由的运维人
-- 🔭 一名爱摸鱼没事技术的运维人
+你好，我是小改，一只自由的运维人
+- 🔭 一名爱摸鱼爱摆烂没技术的运维人
 - 💬 关于我可以看我的[个人页面](https://www.smartsrain.cn)
 - 📫 个人联系邮箱：cnmd_nmsl@outlok.com
