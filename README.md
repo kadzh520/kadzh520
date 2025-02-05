@@ -20,6 +20,6 @@ Email：[kadzh520@qq.com](mailto:kadzh520@qq.com) -->
 
 你好，我是小改，一只自由的运维人
 - 🔭 一只爱摸鱼爱摆烂没技术的运维人
-- 💬 关于我可以看我的[个人页面](https://www.haoyu233.com)
+- 💬 关于我可以看我的[个人页面](https://www.haoyu233.com/about)
 - 📫 个人邮箱:cnmd_nmsl@outlook.com
   
